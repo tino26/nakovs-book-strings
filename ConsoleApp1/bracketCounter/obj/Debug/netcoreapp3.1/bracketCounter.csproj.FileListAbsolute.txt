@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\bracketCounter\bin\Debug\netcoreapp3.1\bracketCounter.exe
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\bracketCounter\bin\Debug\netcoreapp3.1\bracketCounter.deps.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\bracketCounter\bin\Debug\netcoreapp3.1\bracketCounter.runtimeconfig.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\bracketCounter\bin\Debug\netcoreapp3.1\bracketCounter.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\bracketCounter\bin\Debug\netcoreapp3.1\bracketCounter.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\bracketCounter\bin\Debug\netcoreapp3.1\bracketCounter.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\bracketCounter\obj\Debug\netcoreapp3.1\bracketCounter.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\bracketCounter\obj\Debug\netcoreapp3.1\bracketCounter.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\bracketCounter\obj\Debug\netcoreapp3.1\bracketCounter.AssemblyInfo.cs
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\bracketCounter\obj\Debug\netcoreapp3.1\bracketCounter.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\bracketCounter\obj\Debug\netcoreapp3.1\bracketCounter.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\bracketCounter\obj\Debug\netcoreapp3.1\bracketCounter.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\bracketCounter\obj\Debug\netcoreapp3.1\bracketCounter.genruntimeconfig.cache

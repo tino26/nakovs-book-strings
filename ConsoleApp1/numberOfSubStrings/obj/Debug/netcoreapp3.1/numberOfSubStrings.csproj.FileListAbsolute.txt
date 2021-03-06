@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\numberOfSubStrings\bin\Debug\netcoreapp3.1\numberOfSubStrings.exe
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\numberOfSubStrings\bin\Debug\netcoreapp3.1\numberOfSubStrings.deps.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\numberOfSubStrings\bin\Debug\netcoreapp3.1\numberOfSubStrings.runtimeconfig.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\numberOfSubStrings\bin\Debug\netcoreapp3.1\numberOfSubStrings.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\numberOfSubStrings\bin\Debug\netcoreapp3.1\numberOfSubStrings.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\numberOfSubStrings\bin\Debug\netcoreapp3.1\numberOfSubStrings.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\numberOfSubStrings\obj\Debug\netcoreapp3.1\numberOfSubStrings.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\numberOfSubStrings\obj\Debug\netcoreapp3.1\numberOfSubStrings.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\numberOfSubStrings\obj\Debug\netcoreapp3.1\numberOfSubStrings.AssemblyInfo.cs
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\numberOfSubStrings\obj\Debug\netcoreapp3.1\numberOfSubStrings.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\numberOfSubStrings\obj\Debug\netcoreapp3.1\numberOfSubStrings.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\numberOfSubStrings\obj\Debug\netcoreapp3.1\numberOfSubStrings.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\numberOfSubStrings\obj\Debug\netcoreapp3.1\numberOfSubStrings.genruntimeconfig.cache

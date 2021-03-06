@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\flipString.exe
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\flipString.deps.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\flipString.runtimeconfig.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\flipString.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\flipString.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\flipString.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\flipString.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\flipString.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\flipString.AssemblyInfo.cs
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\flipString.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\flipString.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\flipString.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\flipString.genruntimeconfig.cache
