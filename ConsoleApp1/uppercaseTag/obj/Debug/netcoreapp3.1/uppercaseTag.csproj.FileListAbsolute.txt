@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\uppercaseTag\obj\Debug\netcoreapp3.1\uppercaseTag.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\uppercaseTag\obj\Debug\netcoreapp3.1\uppercaseTag.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\uppercaseTag\obj\Debug\netcoreapp3.1\uppercaseTag.AssemblyInfo.cs
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\uppercaseTag\obj\Debug\netcoreapp3.1\uppercaseTag.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\uppercaseTag\bin\Debug\netcoreapp3.1\uppercaseTag.exe
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\uppercaseTag\bin\Debug\netcoreapp3.1\uppercaseTag.deps.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\uppercaseTag\bin\Debug\netcoreapp3.1\uppercaseTag.runtimeconfig.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\uppercaseTag\bin\Debug\netcoreapp3.1\uppercaseTag.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\uppercaseTag\bin\Debug\netcoreapp3.1\uppercaseTag.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\uppercaseTag\bin\Debug\netcoreapp3.1\uppercaseTag.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\uppercaseTag\obj\Debug\netcoreapp3.1\uppercaseTag.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\uppercaseTag\obj\Debug\netcoreapp3.1\uppercaseTag.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\uppercaseTag\obj\Debug\netcoreapp3.1\uppercaseTag.genruntimeconfig.cache

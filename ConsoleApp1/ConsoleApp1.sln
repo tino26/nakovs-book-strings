@@ -5,11 +5,17 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "flipString", "ConsoleApp1\flipString.csproj", "{28EA4A64-2DAC-481E-82E9-7A7AED44D1D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bracketCounter", "bracketCounter\bracketCounter.csproj", "{EFB428FB-C536-4399-A5CD-817E55C05FA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bracketCounter", "bracketCounter\bracketCounter.csproj", "{EFB428FB-C536-4399-A5CD-817E55C05FA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numberOfSubStrings", "numberOfSubStrings\numberOfSubStrings.csproj", "{E840ADD1-DB5A-4F9D-95FA-E81BE2488939}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "numberOfSubStrings", "numberOfSubStrings\numberOfSubStrings.csproj", "{E840ADD1-DB5A-4F9D-95FA-E81BE2488939}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uppercaseTag", "uppercaseTag\uppercaseTag.csproj", "{71E45C68-1505-4FA4-8C05-5DBB735472EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "uppercaseTag", "uppercaseTag\uppercaseTag.csproj", "{71E45C68-1505-4FA4-8C05-5DBB735472EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20sims", "20sims\20sims.csproj", "{5DADFE75-0FF8-4B31-8F5F-45B92B80D8D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unicode", "unicode\unicode.csproj", "{A77D6C57-FF20-4488-9915-1D87EED55C6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shifur", "shifur\shifur.csproj", "{DDEDEC25-8A6D-4A40-BBD0-2907A57EC7A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{71E45C68-1505-4FA4-8C05-5DBB735472EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71E45C68-1505-4FA4-8C05-5DBB735472EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71E45C68-1505-4FA4-8C05-5DBB735472EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DADFE75-0FF8-4B31-8F5F-45B92B80D8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DADFE75-0FF8-4B31-8F5F-45B92B80D8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DADFE75-0FF8-4B31-8F5F-45B92B80D8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DADFE75-0FF8-4B31-8F5F-45B92B80D8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A77D6C57-FF20-4488-9915-1D87EED55C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77D6C57-FF20-4488-9915-1D87EED55C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77D6C57-FF20-4488-9915-1D87EED55C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77D6C57-FF20-4488-9915-1D87EED55C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDEDEC25-8A6D-4A40-BBD0-2907A57EC7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDEDEC25-8A6D-4A40-BBD0-2907A57EC7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDEDEC25-8A6D-4A40-BBD0-2907A57EC7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDEDEC25-8A6D-4A40-BBD0-2907A57EC7A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

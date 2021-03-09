@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\shifur\bin\Debug\netcoreapp3.1\shifur.exe
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\shifur\bin\Debug\netcoreapp3.1\shifur.deps.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\shifur\bin\Debug\netcoreapp3.1\shifur.runtimeconfig.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\shifur\bin\Debug\netcoreapp3.1\shifur.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\shifur\bin\Debug\netcoreapp3.1\shifur.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\shifur\bin\Debug\netcoreapp3.1\shifur.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\shifur\obj\Debug\netcoreapp3.1\shifur.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\shifur\obj\Debug\netcoreapp3.1\shifur.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\shifur\obj\Debug\netcoreapp3.1\shifur.AssemblyInfo.cs
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\shifur\obj\Debug\netcoreapp3.1\shifur.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\shifur\obj\Debug\netcoreapp3.1\shifur.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\shifur\obj\Debug\netcoreapp3.1\shifur.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\shifur\obj\Debug\netcoreapp3.1\shifur.genruntimeconfig.cache

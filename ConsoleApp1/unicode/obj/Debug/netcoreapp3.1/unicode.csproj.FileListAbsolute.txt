@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\unicode\obj\Debug\netcoreapp3.1\unicode.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\unicode\obj\Debug\netcoreapp3.1\unicode.AssemblyInfo.cs
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\unicode\obj\Debug\netcoreapp3.1\unicode.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\unicode\bin\Debug\netcoreapp3.1\unicode.exe
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\unicode\bin\Debug\netcoreapp3.1\unicode.deps.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\unicode\bin\Debug\netcoreapp3.1\unicode.runtimeconfig.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\unicode\bin\Debug\netcoreapp3.1\unicode.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\unicode\bin\Debug\netcoreapp3.1\unicode.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\unicode\bin\Debug\netcoreapp3.1\unicode.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\unicode\obj\Debug\netcoreapp3.1\unicode.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\unicode\obj\Debug\netcoreapp3.1\unicode.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\unicode\obj\Debug\netcoreapp3.1\unicode.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\unicode\obj\Debug\netcoreapp3.1\unicode.genruntimeconfig.cache

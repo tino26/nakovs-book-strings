@@ -1,0 +1,12 @@
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\20sims\bin\Debug\netcoreapp3.1\20sims.exe
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\20sims\bin\Debug\netcoreapp3.1\20sims.deps.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\20sims\bin\Debug\netcoreapp3.1\20sims.runtimeconfig.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\20sims\bin\Debug\netcoreapp3.1\20sims.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\20sims\bin\Debug\netcoreapp3.1\20sims.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\20sims\bin\Debug\netcoreapp3.1\20sims.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\20sims\obj\Debug\netcoreapp3.1\20sims.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\20sims\obj\Debug\netcoreapp3.1\20sims.AssemblyInfo.cs
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\20sims\obj\Debug\netcoreapp3.1\20sims.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\20sims\obj\Debug\netcoreapp3.1\20sims.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\20sims\obj\Debug\netcoreapp3.1\20sims.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\20sims\obj\Debug\netcoreapp3.1\20sims.genruntimeconfig.cache
