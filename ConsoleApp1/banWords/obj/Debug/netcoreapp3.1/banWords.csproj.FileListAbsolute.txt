@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\banWords\bin\Debug\netcoreapp3.1\banWords.exe
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\banWords\bin\Debug\netcoreapp3.1\banWords.deps.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\banWords\bin\Debug\netcoreapp3.1\banWords.runtimeconfig.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\banWords\bin\Debug\netcoreapp3.1\banWords.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\banWords\bin\Debug\netcoreapp3.1\banWords.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\banWords\bin\Debug\netcoreapp3.1\banWords.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\banWords\obj\Debug\netcoreapp3.1\banWords.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\banWords\obj\Debug\netcoreapp3.1\banWords.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\banWords\obj\Debug\netcoreapp3.1\banWords.AssemblyInfo.cs
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\banWords\obj\Debug\netcoreapp3.1\banWords.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\banWords\obj\Debug\netcoreapp3.1\banWords.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\banWords\obj\Debug\netcoreapp3.1\banWords.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\banWords\obj\Debug\netcoreapp3.1\banWords.genruntimeconfig.cache

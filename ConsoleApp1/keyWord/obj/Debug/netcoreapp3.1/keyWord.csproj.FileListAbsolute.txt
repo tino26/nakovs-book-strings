@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\keyWord\bin\Debug\netcoreapp3.1\keyWord.exe
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\keyWord\bin\Debug\netcoreapp3.1\keyWord.deps.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\keyWord\bin\Debug\netcoreapp3.1\keyWord.runtimeconfig.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\keyWord\bin\Debug\netcoreapp3.1\keyWord.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\keyWord\bin\Debug\netcoreapp3.1\keyWord.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\keyWord\bin\Debug\netcoreapp3.1\keyWord.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\keyWord\obj\Debug\netcoreapp3.1\keyWord.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\keyWord\obj\Debug\netcoreapp3.1\keyWord.AssemblyInfo.cs
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\keyWord\obj\Debug\netcoreapp3.1\keyWord.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\keyWord\obj\Debug\netcoreapp3.1\keyWord.dll
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\keyWord\obj\Debug\netcoreapp3.1\keyWord.pdb
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\keyWord\obj\Debug\netcoreapp3.1\keyWord.genruntimeconfig.cache
+C:\Users\Owner\source\repos\nakovs-book-strings\ConsoleApp1\keyWord\obj\Debug\netcoreapp3.1\keyWord.csprojAssemblyReference.cache

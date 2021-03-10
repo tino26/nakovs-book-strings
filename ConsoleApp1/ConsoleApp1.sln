@@ -11,11 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "numberOfSubStrings", "numbe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "uppercaseTag", "uppercaseTag\uppercaseTag.csproj", "{71E45C68-1505-4FA4-8C05-5DBB735472EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20sims", "20sims\20sims.csproj", "{5DADFE75-0FF8-4B31-8F5F-45B92B80D8D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20sims", "20sims\20sims.csproj", "{5DADFE75-0FF8-4B31-8F5F-45B92B80D8D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unicode", "unicode\unicode.csproj", "{A77D6C57-FF20-4488-9915-1D87EED55C6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unicode", "unicode\unicode.csproj", "{A77D6C57-FF20-4488-9915-1D87EED55C6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shifur", "shifur\shifur.csproj", "{DDEDEC25-8A6D-4A40-BBD0-2907A57EC7A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shifur", "shifur\shifur.csproj", "{DDEDEC25-8A6D-4A40-BBD0-2907A57EC7A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "keyWord", "keyWord\keyWord.csproj", "{C2936B2E-8C05-401A-A4DC-57FCD31D2931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "banWords", "banWords\banWords.csproj", "{1995D346-DA72-49EB-8179-7BA794E54DAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{DDEDEC25-8A6D-4A40-BBD0-2907A57EC7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDEDEC25-8A6D-4A40-BBD0-2907A57EC7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDEDEC25-8A6D-4A40-BBD0-2907A57EC7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2936B2E-8C05-401A-A4DC-57FCD31D2931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2936B2E-8C05-401A-A4DC-57FCD31D2931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2936B2E-8C05-401A-A4DC-57FCD31D2931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2936B2E-8C05-401A-A4DC-57FCD31D2931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1995D346-DA72-49EB-8179-7BA794E54DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1995D346-DA72-49EB-8179-7BA794E54DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1995D346-DA72-49EB-8179-7BA794E54DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1995D346-DA72-49EB-8179-7BA794E54DAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
